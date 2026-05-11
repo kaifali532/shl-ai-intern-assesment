@@ -1,0 +1,6 @@
+{
+  "name": "SHL Assessment Recommender",
+  "description": "An AI-powered conversational agent recommending SHL individual test solutions based on hiring needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
